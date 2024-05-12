@@ -5,6 +5,17 @@ background-color: brown;
 width:100%;
 }
 
+p{
+
+  text-align: center;
+  border:2px DarkOrchid;
+  Background-color: #14144c;
+  color: Bisque;
+  font-family:Copperplate, Papyrus, Fantasy;
+  background-image: url('https://i.pinimg.com/736x/98/7f/ba/987fba555a43f2a013dc8f468ce2acbf.jpg');
+}
+
+}
 h2{
 text-align:center;
 
