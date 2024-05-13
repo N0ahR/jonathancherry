@@ -24,3 +24,11 @@ p{
 text-align:center;
 
 }
+}
+
+.center-justified {
+    margin: 0 auto;
+    text-align: justify;
+    width: 45em;
+}
+
